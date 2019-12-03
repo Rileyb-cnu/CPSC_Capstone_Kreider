@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/contact_information"
+        android:title="Contact Information"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/change_time"
+        android:title="Change Time"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/map"
+        android:title="Open Map"
+        app:showAsAction="never" />
+
+</menu>
